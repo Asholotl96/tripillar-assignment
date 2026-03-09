@@ -30,3 +30,9 @@ public class BinaryIterRecur {
         return recursive(arr, l, m - 1, k);
     }
 }
+
+/*
+Quick sort pivot partitioning is based on the divide and conquer approach.
+The array is partitioned into two sub-arrays based on the pivot element, and the process is
+recursively applied to the sub-arrays until the entire array is sorted.
+*/

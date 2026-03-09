@@ -1,0 +1,6 @@
+Stability of Sorting Algorithms:
+A sorting algorithm is said to be stable if it preserves the relative order of records with equal keys (i.e., values). 
+In other words, if two elements are equal, they will appear in the same order in the sorted output as they do in the input.
+
+Stable Examples: Merge Sort, Bubble Sort, Insertion Sort.
+Unstable Examples: Quick Sort, Selection Sort.

@@ -7,7 +7,7 @@ public class MerSort {
         int[] arr = new int[n];
         for (int i = 0; i < n; i++) arr[i] = sc.nextInt();
         sort(arr, 0, n - 1);
-        for (int val : arr) System.out.print(val + " ");
+        for (int i : arr) System.out.print(i + " ");
     }
 
     static void sort(int[] arr, int l, int r) {

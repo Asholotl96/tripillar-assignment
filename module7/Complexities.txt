@@ -1,0 +1,21 @@
+Bubble Sort:
+Time Complexity: O(n^2) in the worst and average cases, O(n) in the best case, when the array is already sorted.
+Space Complexity: O(1) ie. in place sorting.
+
+Selection Sort:
+>Time Complexity: O(n^2) in all cases.
+>Space Complexity: O(1)
+
+Insertion Sort:
+>Time Complexity: O(n^2) in the worst and average cases, O(n) in the best case, when the array is already sorted.
+>Space Complexity: O(1) 
+
+Merge Sort:
+>Time Complexity: O(n log n) in all cases.
+>Space Complexity: O(n), requires additional space for the temporary arrays used during merging.
+
+Quick Sort:
+>Time Complexity: O(n log n) on average and in the best case, O(n^2) in the worst case, 
+ when the smallest or largest element is always chosen as the pivot.
+>Space Complexity: O(log n) on average (due to recursive stack space), O(n) in the worst case, 
+ when the smallest or largest element is always chosen as the pivot.
